@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ayoni02
 - 👀 I’m interested in sleep
-- 🌱 I’m currently learning python, HTML and CSS :)
+- 🌱 I’m currently learning PY, HTML, CSS and JS:)
 - 💞️ I’m looking to collaborate on nothing, I'm a noob
 - 📫 How to reach me (google)
 

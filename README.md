@@ -2,7 +2,7 @@
 - 👀 I’m interested in sleep
 - 🌱 I’m currently learning PY, HTML, CSS and JS
      With Machine Learning and Data Science 
-- 💞️ I’m looking to collaborate on light projects, I'm a noob
+- 💞️ I’m looking to collaborate on any viable projects, I'm a noob
 - 📫 How to reach me (google)
 
 <!---

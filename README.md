@@ -1,6 +1,6 @@
 ![image](https://www.codewars.com/users/ayoni02/badges/large)
 - 👋 Hi, I’m Ayoni02
-- 👀 I’m interested in love
+- 👀 I love gaming 
 - 🌱 I’m currently learning PY, HTML, and CSS
      With Machine Learning and Data Science 
 - 💞️ I’m looking to collaborate on any viable projects
